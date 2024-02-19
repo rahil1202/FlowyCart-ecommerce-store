@@ -4,7 +4,7 @@
 
 ## Overview
 
-Snap Shop is a modern E-commerce site built using React, Redux, Redux Toolkit, React Router DOM, and TypeScript. The application features a responsive design and includes essential e-commerce functionalities.
+Flowy cart is a modern E-commerce site built using React, Redux, Redux Toolkit, React Router DOM, and TypeScript. The application features a responsive design and includes essential e-commerce functionalities.
 
 ## Technologies Used
 
