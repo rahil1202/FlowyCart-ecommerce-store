@@ -1,6 +1,6 @@
 # Flowy Cart - E-commerce Store
 
-🌐 [**Demo**](https://flowy-cart-rahil1202.vercel.app/)
+🌐 [**Live Link**](https://flowy-cart-rahil1202.vercel.app/)
 
 ## Overview
 
